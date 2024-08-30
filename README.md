@@ -15,4 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🎵 Last.fm
+![](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=ceddicedced&theme=dark&show_scrobbles=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
