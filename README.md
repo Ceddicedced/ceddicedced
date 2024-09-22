@@ -12,9 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ceddicedced&theme=dark&hide_border=false&mode=weekly)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceddicedced&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🎵 Last.fm
-![](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=ceddicedced&theme=dark&show_scrobbles=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
